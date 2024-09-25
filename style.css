@@ -65,6 +65,8 @@ button{
 	padding: 10px;
 	color:white;
 	border-radius: 8px;
+	width: 160px;
+	border-color: #3882F6;
 }
 
 .random{
@@ -149,6 +151,10 @@ button{
 	color: white;
 }
 
+.last{
+	border-color: white;
+	width: 160px;
+}
 
 
 
